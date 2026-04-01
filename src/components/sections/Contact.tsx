@@ -7,7 +7,7 @@ import { useLanguage } from "@/contexts/LanguageContext";
 const EMAIL = "jmflorezrobledo@gmail.com";
 const PHONE = "+57 311 572 9607";
 const GITHUB = "https://github.com/JuanmaFl";
-const LINKEDIN = "https://www.linkedin.com/in/juan-manuel-florez-robledo/";
+const LINKEDIN = "https://www.linkedin.com/in/juan-manuel-florez-robledo-5493bb166/";
 
 export default function Contact() {
   const { t } = useLanguage();
