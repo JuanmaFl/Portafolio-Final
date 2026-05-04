@@ -26,8 +26,8 @@ export default function Projects() {
       preview: "/images/infiber-preview.jpg",
     },
     {
-      title: "Anexu — ISP Coverage",
-      description: t.projects.anexu_desc,
+      title: "Cobertura Colombia",
+      description: t.projects.cobertura_desc,
       link: "https://86.48.21.76/cobertura/",
       icon: Zap,
       badge: "Active",
@@ -39,7 +39,7 @@ export default function Projects() {
         { label: t.projects.stat_geo, value: "PostGIS" },
         { label: t.projects.stat_api, value: "REST" },
       ],
-      preview: "/images/anexu-preview.jpg",
+      preview: "/images/cobertura-preview.jpg",
     },
     {
       title: "Peering Latam",

@@ -74,9 +74,9 @@ export const translations = {
       heading: "Featured Projects",
       description: "Selected work showcasing my capabilities across different domains",
       infiber_desc:
-        "Website for a small/medium ISP company. Modern, responsive design with smooth animations and optimized performance. Includes contact forms, service showcase, and client testimonials. SEO-optimized and accessible.",
-      anexu_desc:
-        "ISP coverage consultation system with interactive maps, real-time geospatial queries via PostGIS, and multi-provider analysis. Users can search by address or coordinates to view available ISPs, coverage polygons, and service plans. Includes REST API and ISP admin panel.",
+        "University web development project. Modern, responsive design with smooth animations and optimized performance. Includes contact forms, service showcase, and client testimonials. SEO-optimized and accessible.",
+      cobertura_desc:
+        "Coverage verification tool at the national level for Colombia. Interactive maps, real-time geospatial queries via PostGIS, and multi-provider analysis. Users can search by address or coordinates to view coverage polygons and service plans. Includes REST API and admin panel.",
       peering_desc:
         "Network connectivity platform specialized in reducing costs and optimizing network traffic for Latin America. Connects providers, content, and users more efficiently with catalog, simulator, and technical support tools.",
       stat_year: "Year",
@@ -237,9 +237,9 @@ export const translations = {
       heading: "Proyectos Destacados",
       description: "Trabajo seleccionado que muestra mis capacidades en diferentes dominios",
       infiber_desc:
-        "Sitio web para una pequeña/mediana empresa ISP. Diseño moderno y responsivo con animaciones suaves y rendimiento optimizado. Incluye formularios de contacto, vitrina de servicios y testimonios. SEO optimizado y accesible.",
-      anexu_desc:
-        "Sistema de consulta de cobertura ISP con mapas interactivos, consultas geoespaciales en tiempo real vía PostGIS y análisis multi-proveedor. Los usuarios pueden buscar por dirección o coordenadas para ver ISPs disponibles, polígonos de cobertura y planes de servicio. Incluye API REST y panel de administración.",
+        "Proyecto universitario de desarrollo web. Diseño moderno y responsivo con animaciones suaves y rendimiento optimizado. Incluye formularios de contacto, vitrina de servicios y testimonios. SEO optimizado y accesible.",
+      cobertura_desc:
+        "Herramienta para verificar cobertura a nivel de Colombia. Mapas interactivos, consultas geoespaciales en tiempo real vía PostGIS y análisis multi-proveedor. Los usuarios pueden buscar por dirección o coordenadas para ver polígonos de cobertura y planes de servicio. Incluye API REST y panel de administración.",
       peering_desc:
         "Plataforma de conectividad de red especializada en reducir costos y optimizar el tráfico para América Latina. Conecta proveedores, contenidos y usuarios de forma más eficiente con catálogo, simulador y herramientas de soporte técnico.",
       stat_year: "Año",
@@ -400,9 +400,9 @@ export const translations = {
       heading: "Projetos em Destaque",
       description: "Trabalho selecionado mostrando minhas capacidades em diferentes domínios",
       infiber_desc:
-        "Site para uma empresa ISP de pequeno/médio porte. Design moderno e responsivo com animações suaves e performance otimizada. Inclui formulários de contato, vitrine de serviços e depoimentos de clientes. Otimizado para SEO e acessível.",
-      anexu_desc:
-        "Sistema de consulta de cobertura ISP com mapas interativos, consultas geoespaciais em tempo real via PostGIS e análise multi-provedor. Os usuários podem pesquisar por endereço ou coordenadas para ver ISPs disponíveis, polígonos de cobertura e planos de serviço. Inclui API REST e painel de administração.",
+        "Projeto universitário de desenvolvimento web. Design moderno e responsivo com animações suaves e performance otimizada. Inclui formulários de contato, vitrine de serviços e depoimentos de clientes. Otimizado para SEO e acessível.",
+      cobertura_desc:
+        "Ferramenta de verificação de cobertura a nível nacional para a Colômbia. Mapas interativos, consultas geoespaciais em tempo real via PostGIS e análise multi-provedor. Os usuários podem pesquisar por endereço ou coordenadas para ver polígonos de cobertura e planos de serviço. Inclui API REST e painel de administração.",
       peering_desc:
         "Plataforma de conectividade de rede especializada em reduzir custos e otimizar o tráfego para a América Latina. Conecta provedores, conteúdos e usuários de forma mais eficiente com catálogo, simulador e ferramentas de suporte técnico.",
       stat_year: "Ano",

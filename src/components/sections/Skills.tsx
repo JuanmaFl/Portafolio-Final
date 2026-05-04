@@ -13,8 +13,8 @@ const SKILL_DATA = [
   {
     icon: Code, iconColor: "#FF6B35",
     skills: [
-      { name: "Java", icon: Code }, { name: "Python", icon: Code }, { name: "C++", icon: Code },
-      { name: "Haskell", icon: Code }, { name: "JavaScript", icon: Code }, { name: "HTML/CSS", icon: Code },
+      { name: "Python", icon: Code }, { name: "JavaScript", icon: Code }, { name: "HTML/CSS", icon: Code },
+      { name: "TypeScript", icon: Code },
     ],
     catKey: "cat1" as const,
   },
@@ -37,8 +37,8 @@ const SKILL_DATA = [
   {
     icon: Cloud, iconColor: "#00D4FF",
     skills: [
-      { name: "AWS", icon: Server }, { name: "Docker", icon: Server }, { name: "Linux", icon: Server },
-      { name: "Git", icon: Server }, { name: "CI/CD", icon: Server }, { name: "Nginx", icon: Server },
+      { name: "AWS", icon: Server }, { name: "Docker", icon: Server }, { name: "Git", icon: Server },
+      { name: "CI/CD", icon: Server }, { name: "Nginx", icon: Server },
     ],
     catKey: "cat4" as const,
   },
@@ -46,7 +46,7 @@ const SKILL_DATA = [
     icon: Database, iconColor: "#FF6B35",
     skills: [
       { name: "PostgreSQL", icon: Database }, { name: "MongoDB", icon: Database }, { name: "SQL", icon: Database },
-      { name: "Power BI", icon: Database }, { name: "Redis", icon: Database }, { name: "Data Analysis", icon: Database },
+      { name: "Power BI", icon: Database }, { name: "Data Analysis", icon: Database },
     ],
     catKey: "cat5" as const,
   },
